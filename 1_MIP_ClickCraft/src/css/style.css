@@ -1,3 +1,42 @@
-header {
-	background-color: red;
+/* css reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.main-title {
+	max-height: 50px;
+	padding: 30px 0px;
+	background-color: #000;
+	color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 700;
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* footer section starts here */
+.author-credit {
+	padding: 16px 0px;
+	background-color: #000;
+	color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 700;
+	font-size: 16px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.author-credit a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.author-credit a:hover {
+	color: rgb(21, 0, 255);
+	text-decoration: underline;
 }
