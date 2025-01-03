@@ -1,3 +1,6 @@
+/* font import */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
 /* css reset */
 * {
 	margin: 0;
@@ -5,7 +8,7 @@
 	box-sizing: border-box;
 }
 
-.main-title {
+.page-title {
 	max-height: 50px;
 	padding: 30px 0px;
 	background-color: #000;
@@ -16,6 +19,67 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+main {
+	margin: 70px;
+	display: flex;
+	justify-content: center;
+}
+
+.section-title {
+	text-decoration: underline;
+	text-align: center;
+	margin-bottom: 10px;
+	font-family: "Roboto", Arial, Helvetica, sans-serif;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.container {
+	border: 2px solid #000;
+	height: 200px;
+	width: 600px;
+	padding: 10px 20px 20px 20px;
+	border-radius: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 100px;
+}
+
+.youtube-buttons {
+	border-radius: 30px;
+	padding: 10px 20px;
+	font-family: "Roboto", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+
+.yt-subscribe-button {
+	background-color: #000;
+	color: white;
+	transition: opacity 0.15s;
+	margin-right: 16px;
+}
+
+.yt-subscribe-button:hover {
+	opacity: 0.8;
+}
+
+.yt-join-button {
+	background-color: #fff;
+	color: #000;
+	border: 1px solid #e6e6e6;
+	transition: background-color 0.15s;
+}
+
+.yt-join-button:hover {
+	background-color: #e6e6e6;
 }
 
 /* footer section starts here */
