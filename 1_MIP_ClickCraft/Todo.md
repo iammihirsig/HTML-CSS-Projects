@@ -1,12 +1,6 @@
-# Style Guidlines
-- Do not focus on responsive part for now, just build for desktop screen size
-- A basic black header and footer with white text on it
-- Use simple horizontal lines for separations, and enclose each category of buttons into a separate section
-- Keep those section centered on the page
-
 # Development Tasks
-- [ ] Create subscribe button
-- [ ] Create join button
+- [X] Create subscribe button
+- [X] Create join button
 - [ ] Create tweet button
 - [ ] Create uber button
 - [ ] Create amazon button
