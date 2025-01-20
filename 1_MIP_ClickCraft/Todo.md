@@ -1,7 +1,7 @@
 # Development Tasks
 - [X] Create subscribe button
 - [X] Create join button
-- [ ] Create tweet button
+- [X] Create tweet button
 - [ ] Create uber button
 - [ ] Create amazon button
 - [ ] Create github button
