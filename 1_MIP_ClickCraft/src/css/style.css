@@ -134,6 +134,20 @@
 }
 /* amazon-button section ends */
 
+/* github-button section starts */
+.github-button {
+	padding: 10px 25px;
+	background-color: #2a9b46;
+	color: #fff;
+	border-radius: 8px;
+	transition: opacity 0.15s;
+}
+
+.github-button:hover {
+	opacity: 0.9;
+}
+/* github-button section ends */
+
 /* main section ends */
 
 /* footer section starts */

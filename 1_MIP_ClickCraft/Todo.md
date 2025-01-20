@@ -4,7 +4,7 @@
 - [X] Create tweet button
 - [x] Create uber button
 - [x] Create amazon button
-- [ ] Create github button
+- [x] Create github button
 - [ ] Create bootstrap button
 - [ ] Create linkedin button
 - [ ] Create challenge exercise
