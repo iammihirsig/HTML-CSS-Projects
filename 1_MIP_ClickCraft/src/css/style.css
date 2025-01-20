@@ -121,6 +121,19 @@
 }
 /* uber-button section ends */
 
+/* amazon-button section starts */
+.amazon-button {
+	background-color: #ffd000;
+	color: #000;
+	padding: 10px 90px;
+	transition: background-color 0.15s;
+}
+
+.amazon-button:hover {
+	background-color: #efc300;
+}
+/* amazon-button section ends */
+
 /* main section ends */
 
 /* footer section starts */

@@ -2,8 +2,8 @@
 - [X] Create subscribe button
 - [X] Create join button
 - [X] Create tweet button
-- [ ] Create uber button
-- [ ] Create amazon button
+- [x] Create uber button
+- [x] Create amazon button
 - [ ] Create github button
 - [ ] Create bootstrap button
 - [ ] Create linkedin button
