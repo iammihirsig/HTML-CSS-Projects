@@ -8,6 +8,7 @@
 - [x] Create bootstrap button
 - [ ] Create linkedin button
 - [ ] Create challenge exercise
+- [ ] Make responsive
 
 # Deployment Tasks
 - [ ] Make sure the main repo is deployed on github page with main branch
