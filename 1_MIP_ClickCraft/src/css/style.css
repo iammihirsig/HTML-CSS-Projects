@@ -108,6 +108,19 @@
 }
 /* tweet-button section ends */
 
+/* uber-button section starts */
+.uber-button {
+	border-radius: unset;
+	background-color: #000;
+	color: white;
+	transition: opacity 0.15s;
+}
+
+.uber-button:hover {
+	opacity: 0.8;
+}
+/* uber-button section ends */
+
 /* main section ends */
 
 /* footer section starts */
