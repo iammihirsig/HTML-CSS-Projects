@@ -148,6 +148,32 @@
 }
 /* github-button section ends */
 
+/* bootstrap-button section starts */
+.bootstrap-start-button {
+	background-color: #6c47a9;
+	color: white;
+	border-radius: 5px;
+	transition: background-color 0.15s;
+}
+
+.bootstrap-start-button:hover {
+	background-color: #573982;
+}
+
+.bootstrap-download-button {
+	background-color: #fff;
+	border-radius: 5px;
+	color: #606970;
+	border: 1px solid #606970;
+	transition: background-color, color 0.15s;
+}
+
+.bootstrap-download-button:hover {
+	background-color: #606970;
+	color: #fff;
+}
+/* bootstrap-button section ends */
+
 /* main section ends */
 
 /* footer section starts */
