@@ -2,7 +2,7 @@
   <img src="Banner.png" alt="Banner" />
 </div>
 
-# HTML-CSS-Projects
+# [HTML-CSS-Projects](https://iammihirsig.github.io/HTML-CSS-Projects/)
 
 Welcome to the **HTML-CSS-Projects** repository! This repository contains a collection of front-end projects built using **HTML** and **CSS**. These projects serve as a way to learn, showcase, and share knowledge. Whether you're new to web development or looking for inspiration, you'll find valuable examples here.
 
@@ -23,8 +23,8 @@ Hello! My name is **Mihir Raj Singh**, and I am the author of this repository. I
 
 Below is a list of some featured projects included in this repository:
 
-1. **Coming Soon:**
-   Description Here.
+1. **[ClickCraft](https://iammihirsig.github.io/HTML-CSS-Projects/1_MIP_ClickCraft/):**
+   A simple webpage featuring different styles of buttons from popular websites like YouTube, LinkedIn, Twitter, Uber, and more, created using HTML and CSS.
 
 > [!IMPORTANT]
 > Each project resides in its own directory, and every new project is developed in a separate branch. Once completed, the branch is merged into the main branch.

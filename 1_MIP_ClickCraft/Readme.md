@@ -1,8 +1,10 @@
 ![Banner](./assets/Banner.png)
 
-# ClickCraft
+# [ClickCraft](https://iammihirsig.github.io/HTML-CSS-Projects/1_MIP_ClickCraft/)
 
-Welcome to the **ClickCraft** project! This project is part of the **HTML-CSS-Projects** repository and focuses on creating buttons inspired by various popular websites. It also includes basic HTML text elements to demonstrate button placement and styling.
+> 🚨 **[ClickCraft Live Preview](https://iammihirsig.github.io/HTML-CSS-Projects/1_MIP_ClickCraft/src/html/index.html)** 🚨
+
+Welcome to the **[ClickCraft](https://iammihirsig.github.io/HTML-CSS-Projects/1_MIP_ClickCraft/)** project! This project is part of the **[HTML-CSS-Projects](https://github.com/iammihirsig/HTML-CSS-Projects)** repository and focuses on creating buttons inspired by various popular websites. It also includes basic HTML text elements to demonstrate button placement and styling.
 
 ## Table of Contents
 
@@ -23,10 +25,11 @@ This project demonstrates the creation of stylish and functional buttons inspire
 - Buttons styled to resemble those on well-known websites
 - Custom hover effects, transitions and shadows
 - Easy-to-read and modular CSS for customization
+- Fully Responsive
 
 ## Screenshots
 
-> Screenshots will be added soon to showcase the various buttons and the layout in action.
+> ![Screenshot](./assets/1_MIP_ClickCraft.png)
 
 ## Technologies Used
 
