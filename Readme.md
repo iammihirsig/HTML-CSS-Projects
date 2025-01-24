@@ -29,6 +29,9 @@ Below is a list of some featured projects included in this repository:
 2. **[QrCodeCard](https://iammihirsig.github.io/HTML-CSS-Projects/2_MIP_QrCodeCard/):**
    A simple clean, sleek and modern QR Code Card design using fundamental HTML and CSS.
 
+3. **[NFTCard](https://iammihirsig.github.io/HTML-CSS-Projects/3_MIP_NFTCard/):**
+   A simple clean, sleek and modern NFTCard design using fundamental HTML and CSS.
+
 > [!IMPORTANT]
 > Each project resides in its own directory, and every new project is developed in a separate branch. Once completed, the branch is merged into the main branch.
 
