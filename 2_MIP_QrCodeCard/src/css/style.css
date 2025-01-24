@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
 /* css reset */
 * {
 	margin: 0;
@@ -18,13 +19,36 @@
 	justify-content: center;
 	align-items: center;
 }
+
+/* container section starts here */
+.outer-container {
+	background-color: hsl(212, 45%, 89%);
+	height: 100vh;
+	width: 100%;
+	font-family: "Outfit", sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.card {
+	background-color: #fff;
+	height: 380px;
+	width: 240px;
+	border-radius: 15px;
+	padding: 15px;
+}
+
+.qr-code {
+	width: 100%;
+	border-radius: 10px;
+}
+
+/* container section ends here */
+
 /* main section ends here */
 
 /* footer section starts */
-footer {
-	margin-top: 50px;
-}
-
 .author-credit {
 	height: 50px;
 	padding: 10px;

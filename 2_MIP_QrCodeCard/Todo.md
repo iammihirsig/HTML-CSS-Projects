@@ -3,9 +3,9 @@
 - [x] Setup base project template (assets, favicon, banner, design, src, readme, todo)
 - [x] Update Readme
 - [x] Update Todo
-- [ ] Create base card
-- [ ] Center base card
-- [ ] Add QR image
+- [x] Create base card
+- [x] Center base card
+- [x] Add QR image
 - [ ] Add title & descriptions
 - [ ] Make responsive
 
