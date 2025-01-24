@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
 /* css reset */
 * {
 	margin: 0;
@@ -31,7 +32,7 @@
 
 .card {
 	background-color: hsl(216, 50%, 16%);
-	height: 400px;
+	height: 430px;
 	width: 240px;
 	border-radius: 10px;
 	padding: 20px;
@@ -40,6 +41,29 @@
 .card-image {
 	width: 100%;
 	border-radius: 5px;
+}
+
+.card-content {
+	/* background-color: lightcoral; */
+	height: 150px;
+	width: 100%;
+	margin-top: 15px;
+	font-family: "Outfit", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card-title {
+	/* background-color: darkgreen; */
+	color: hsl(0, 0%, 100%);
+	font-size: 18px;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.card-description {
+	/* background-color: darkmagenta; */
+	color: hsl(215, 51%, 70%);
+	font-weight: 300;
+	font-size: 12.5px;
 }
 
 /* container section ends here */

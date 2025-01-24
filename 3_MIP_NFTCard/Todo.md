@@ -6,7 +6,7 @@
 - [x] Create base card
 - [x] Center base card
 - [x] Add NFT image
-- [ ] Add title & descriptions
+- [x] Add title & descriptions
 - [ ] Add price and time section
 - [ ] Add user profile section
 - [ ] Make responsive & shadow effect
