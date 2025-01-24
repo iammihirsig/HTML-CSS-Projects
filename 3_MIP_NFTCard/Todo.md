@@ -8,8 +8,8 @@
 - [x] Add NFT image
 - [x] Add title & descriptions
 - [x] Add price and time section
-- [ ] Add user profile section
-- [ ] Make responsive & shadow effect
+- [x] Add user profile section
+- [ ] Add shadow effects, hover effects & responsiveness
 
 # Deployment Tasks
 
