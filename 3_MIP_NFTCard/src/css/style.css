@@ -45,14 +45,13 @@
 
 .card-content {
 	/* background-color: lightcoral; */
-	height: 150px;
+	height: 180px;
 	width: 100%;
 	margin-top: 15px;
 	font-family: "Outfit", Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .card-title {
-	/* background-color: darkgreen; */
 	color: hsl(0, 0%, 100%);
 	font-size: 18px;
 	font-weight: 600;
@@ -60,10 +59,47 @@
 }
 
 .card-description {
-	/* background-color: darkmagenta; */
 	color: hsl(215, 51%, 70%);
 	font-weight: 300;
 	font-size: 12.5px;
+}
+
+.card-info {
+	margin-top: 20px;
+	/* background-color: darkgreen; */
+	display: flex;
+	justify-content: space-between;
+}
+
+.price {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+.price-icon,
+.clock-icon {
+	height: 14px;
+	margin-right: 5px;
+}
+
+.price-text,
+.clock-reading {
+	color: hsl(178, 100%, 50%);
+	font-weight: 600;
+	font-size: 14px;
+}
+
+.time {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.clock-reading {
+	color: hsl(215, 51%, 70%);
+	font-weight: 400;
+	font-size: 12px;
 }
 
 /* container section ends here */
