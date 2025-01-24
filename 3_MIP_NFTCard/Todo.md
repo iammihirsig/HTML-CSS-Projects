@@ -3,8 +3,8 @@
 - [x] Setup base project template (assets, favicon, banner, design, src, readme, todo)
 - [x] Update Readme
 - [x] Update Todo
-- [ ] Create base card
-- [ ] Center base card
+- [x] Create base card
+- [x] Center base card
 - [ ] Add NFT image
 - [ ] Add title & descriptions
 - [ ] Add price and time section
