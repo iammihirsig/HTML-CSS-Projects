@@ -5,7 +5,7 @@
 - [x] Update Todo
 - [x] Create base card
 - [x] Center base card
-- [ ] Add NFT image
+- [x] Add NFT image
 - [ ] Add title & descriptions
 - [ ] Add price and time section
 - [ ] Add user profile section
