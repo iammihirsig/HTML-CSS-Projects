@@ -25,7 +25,6 @@
 	background-color: hsl(212, 45%, 89%);
 	height: 100vh;
 	width: 100%;
-	font-family: "Outfit", sans-serif;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -37,11 +36,31 @@
 	width: 240px;
 	border-radius: 15px;
 	padding: 15px;
+	font-family: "Outfit", sans-serif;
+	box-shadow: 0px 2px 10px 5px hsla(0, 0%, 0%, 0.15);
 }
 
 .qr-code {
 	width: 100%;
 	border-radius: 10px;
+}
+
+.content-title {
+	margin-top: 14px;
+	text-align: center;
+	color: hsl(218, 44%, 22%);
+	font-size: 18px;
+	font-weight: 700;
+	width: 100%;
+}
+
+.content-description {
+	margin-top: 12px;
+	color: hsl(216, 15%, 48%);
+	font-size: 13px;
+	font-weight: 400;
+	text-align: center;
+	width: 100%;
 }
 
 /* container section ends here */

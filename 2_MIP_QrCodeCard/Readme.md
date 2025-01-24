@@ -29,7 +29,7 @@ This project showcases the creation of a sleek and modern QR Code Card using fun
 
 ## Screenshots
 
-> ![Screenshot](./assets/2_MIP_QrCodeCraft.png)
+> ![Screenshot](./assets/2_MIP_QrCodeCard.png)
 
 ## Technologies Used
 
