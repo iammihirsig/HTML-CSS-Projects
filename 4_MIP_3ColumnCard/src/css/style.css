@@ -46,7 +46,7 @@
 
 .card {
 	padding: 45px;
-	width: 320px;
+	width: 315px;
 	height: 430px;
 }
 
@@ -149,4 +149,20 @@
 		font-size: 12px;
 	}
 }
+
+@media (min-width: 1024px) {
+	.outer-container {
+		flex-direction: row;
+		justify-content: center;
+	}
+
+	.card-1 {
+		border-radius: 10px 0 0 10px;
+	}
+
+	.card-3 {
+		border-radius: 0 10px 10px 0;
+	}
+}
+
 /* media query section ends*/
