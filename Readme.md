@@ -32,6 +32,9 @@ Below is a list of some featured projects included in this repository:
 3. **[NFTCard](https://iammihirsig.github.io/HTML-CSS-Projects/3_MIP_NFTCard/):**
    A simple clean, sleek and modern NFTCard design using fundamental HTML and CSS.
 
+4. **[3ColumnCard](https://iammihirsig.github.io/HTML-CSS-Projects/4_MIP_3ColumnCard/):**
+   A simple clean, sleek and modern 3ColumnCard design using fundamental HTML and CSS. Mainly focus on mobile first approach of development and flexbox.
+
 > [!IMPORTANT]
 > Each project resides in its own directory, and every new project is developed in a separate branch. Once completed, the branch is merged into the main branch.
 
