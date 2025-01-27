@@ -3,9 +3,9 @@
 - [x] Setup base project template (assets, favicon, banner, design, src, readme, todo)
 - [x] Update Readme
 - [x] Update Todo
-- [ ] Create base card design
-- [ ] Add proper fonts
-- [ ] Create buttons
+- [x] Create base card design
+- [x] Add proper fonts
+- [x] Create buttons
 - [ ] Finish mobile design
 - [ ] Finish desktop design
 - [ ] Add hover effects & responsiveness

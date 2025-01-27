@@ -7,6 +7,16 @@
 	box-sizing: border-box;
 }
 
+:root {
+	/* special default variables */
+	--color1: hsl(31, 77%, 52%);
+	--color2: hsl(184, 100%, 22%);
+	--color3: hsl(179, 100%, 13%);
+	--color4: hsl(0, 0%, 100%);
+	--font1: "Big Shoulders Display", serif;
+	--font2: "Lexend Deca", serif;
+}
+
 /* main section starts here */
 .main-title {
 	max-height: 50px;
@@ -20,6 +30,63 @@
 	justify-content: center;
 	align-items: center;
 }
+
+/* container section starts here */
+.outer-container {
+	background-color: var(--color4);
+	min-height: 100vh;
+	min-width: 100%;
+	padding: 40px 20px;
+	font-weight: 400;
+	font-family: var(--font2);
+}
+
+.card {
+	background-color: var(--color1);
+	padding: 45px;
+	border-radius: 10px 10px 0 0;
+	width: 320px;
+	height: 430px;
+}
+
+.card-title {
+	margin-top: 25px;
+	text-transform: uppercase;
+	font-family: var(--font1);
+	font-weight: 700;
+	font-size: 2.7rem;
+	color: var(--color4);
+	margin-bottom: 25px;
+}
+
+.card-description {
+	font-size: 0.9rem;
+	color: var(--color4);
+	line-height: 25px;
+}
+
+.card-button {
+	font-family: var(--font2);
+	padding: 15px 30px;
+	border-radius: 50px;
+	border: none;
+	font-size: 0.9rem;
+	margin-top: 25px;
+}
+
+.button1 {
+	color: var(--color1);
+}
+
+.button2 {
+	color: var(--color2);
+}
+
+.button3 {
+	color: var(--color3);
+}
+
+/* container section ends here */
 
 /* main section ends here */
 
