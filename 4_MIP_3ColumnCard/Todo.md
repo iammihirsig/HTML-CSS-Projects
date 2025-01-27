@@ -6,9 +6,9 @@
 - [x] Create base card design
 - [x] Add proper fonts
 - [x] Create buttons
-- [ ] Finish mobile design
+- [x] Finish mobile design
 - [ ] Finish desktop design
-- [ ] Add hover effects & responsiveness
+- [x] Add hover effects & responsiveness
 
 # Deployment Tasks
 
